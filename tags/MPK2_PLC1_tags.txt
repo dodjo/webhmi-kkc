@@ -1,0 +1,2 @@
+LanceRightCurPos=DB152,REAL136
+LanceLeftCurPos=DB151,REAL136

@@ -1,0 +1,10 @@
+temp_gaz=DB11,REAL30
+T_O2_Common=DB29,REAL30
+T_Air_Common=DB16,REAL30
+P_Air_Common=DB17,REAL30
+F_Air_Common=DB30,REAL84
+T_Water_Common=DB19,REAL30
+P_Water_Common=DB20,REAL30
+F_Water_Common=DB30,REAL148
+Weight_mixer1_Common=DB1020,REAL10
+Weight_mixer2_Common=DB1021,REAL10

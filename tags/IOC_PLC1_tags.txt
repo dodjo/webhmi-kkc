@@ -1,0 +1,6 @@
+F_Common_gas=DB107,REAL14
+F_Gas_Furance1=DB100,REAL14
+P_Gas_Furance1=DB103,REAL14
+T_Dust_Chamber_Furance1=DB101,REAL14
+F_Gas_Furance2=DB104,REAL14
+T_Dust_Chamber_Furance2=DB105,REAL14

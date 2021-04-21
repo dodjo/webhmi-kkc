@@ -1,0 +1,11 @@
+temp1=DB64,REAL14
+temp2=DB66,REAL14
+setTemp1=DB65,REAL6
+modeControlTemp=DB65,X0.0
+manualControlTemp=DB65,X0.1
+room1=Q4.0
+room2=Q4.1
+room3=Q4.2
+room4=Q4.3
+room5=Q4.4
+room6=Q4.6

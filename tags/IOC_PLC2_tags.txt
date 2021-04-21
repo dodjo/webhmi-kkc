@@ -1,0 +1,5 @@
+F_Gas_Furance3=DB100,REAL14
+P_Gas_Furance3=DB103,REAL14
+T_Dust_Chamber_Furance3=DB101,REAL14
+F_Gas_Furance4=DB104,REAL14
+T_Dust_Chamber_Furance4=DB105,REAL14
